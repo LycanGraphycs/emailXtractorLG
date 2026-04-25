@@ -1,0 +1,49 @@
+# ─── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ─── Salidas generadas por el script ──────────────────
+correos_eml.xlsx
+*.xlsx
+*.csv
+
+# ─── Archivos EML (datos de prueba locales) ───────────
+*.eml
+
+# ─── PyCharm / JetBrains ──────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ─── VS Code ──────────────────────────────────────────
+.vscode/
+
+# ─── Sistema operativo ────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Distribución / empaquetado ───────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ─── Pytest ───────────────────────────────────────────
+.pytest_cache/
+.cache/
+htmlcov/
+.coverage
