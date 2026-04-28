@@ -81,4 +81,3 @@ Haz commit de tus cambios: `git commit -m 'Agrego mi mejora'`
 Haz push a la rama: `git push origin feature/mi-mejora`
 Abre un Pull Request
 ---
-Hecho con ❤️ en Colombia 🇨🇴
